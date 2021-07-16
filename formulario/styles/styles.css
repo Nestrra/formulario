@@ -8,7 +8,7 @@
     color: rgb(226, 217, 217);
     margin-top: 40px;
     background:linear-gradient(45deg, #273238, #aa6fdd);
-    height: 890px;
+    height: 960px;
     width: 700px;
     margin: auto;
     display: flex;
@@ -40,10 +40,10 @@
 .btn{
     width:510px;
     border-radius: 5px;
-    background-color: #273238;
-    color: rgb(150, 136, 136);
+    background-color:  rgb(19, 143, 247);
+    color: rgb(248, 245, 245);
     margin-top: 25px;
-    height: 25px;
+    height: 35px;
 
 
 }
@@ -59,5 +59,17 @@
     align-items: center;
     flex-direction: column;
     border-radius: 10px;
+
+}
+.btn-sesion{
+    
+
+    padding: 14px 25px;
+    background: rgb(19, 143, 247);
+    border: 1px solid #1161B0;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration:none;
+
 
 }
